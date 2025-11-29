@@ -1,15 +1,3 @@
-# Sigma-Spy (Reupload)
-
-## ⚠️ Important Notice
-
-This is a **REUPLOAD** of the original Sigma Spy created by **depso (depthso)**. The original repository was deleted, so this version was created to preserve the project and include necessary bug fixes to keep it working.
-
-**Original Author:** depso (depthso)  
-**Original Repository:** https://github.com/depthso (deleted)  
-**Reupload & Bug Fixes:** Dexz00  
-**This Repository:** https://github.com/Dexz00/Sigma-Spy
-
----
 
 A complete Remote Spy with an incredible parser that captures incoming and outgoing remotes data with Actor support!
 
@@ -19,8 +7,8 @@ A complete Remote Spy with an incredible parser that captures incoming and outgo
 
 ## Loadstring
 ```lua
---// Sigma Spy - Reupload by Dexz00
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dexz00/Sigma-Spy/main/Main.lua"))()
+--// Sigma Spy - Vibe Codeded / Fixed with claude fr fr
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoostCC/Sigma-Spy/main/Main.lua"))()
 ```
 
 ## What was changed in this reupload 🔧
