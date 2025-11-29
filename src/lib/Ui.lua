@@ -277,7 +277,7 @@ function Ui:ShowModal(Lines: table)
 
 	--// Modal Window
 	local ModalWindow = Window:PopupModal({
-		Title = "Sigma Spy"
+		Title = "Sigma Spy | Fixed by Boost 🔥 with sigma coding fr fr"
 	})
 	ModalWindow:Label({
 		Text = Message,
